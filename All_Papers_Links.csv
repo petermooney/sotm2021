@@ -1,50 +1,50 @@
-1,"https://doi.org/10.3390/ijgi9090498","Using OpenStreetMap Data and Machine Learning to Generate Socio-Economic Indicators",1
-2,https://doi.org/10.1111/tgis.12680,"OpenStreetMap quality assessment using unsupervised machine learning methods",1
-3,https://doi.org/10.3390/ijgi9110638,"Machine Learning Framework for the Estimation of Average Speed in Rural Road Networks with OpenStreetMap Data",1
-4,https://doi.org/10.1080/13658816.2020.1814303,"Deploying machine learning to assist digital humanitarians: making image annotation in OpenStreetMap more efficient",0,arxiv
-5,https://dl.acm.org/doi/abs/10.5555/3045776.3045780,"Automatic extrapolation of missing road network data in openstreetmap",0,"http://ceur-ws.org/"
-6,https://arxiv.org/abs/1705.06057,"Joint Learning From Earth Observation and OpenStreetMap Data to Get Faster Better Semantic Maps",1,arxiv
-7,https://dl.acm.org/doi/pdf/10.1145/2666310.2666476,"Automated highway tag assessment of OpenStreetMap road networks",1,
-8,https://doi.org/10.3390/ijgi10030156,"A Contributor-Focused Intrinsic Quality Assessment of OpenStreetMap in Mozambique Using Unsupervised Machine Learning",1
-9,https://doi.org/10.1145/3041021.3054250,"DeepVGI: Deep Learning with Volunteered Geographic Information",1,ACM,
-10,https://doi.org/10.1016/j.jag.2017.07.014,"Open land cover from OpenStreetMap and remote sensing",1,ScienceDirect,
-11,https://doi.org/10.1111/tgis.12514,"Multilane roads extracted from the OpenStreetMap urban road network using random forests",1,TGIS
-12,https://doi.org/10.1109/GUCON.2018.8674899,"An Automated Approach for Quality Assessment of OpenStreetMap Data",0
-13,https://arxiv.org/abs/2007.02149,"Human Assisted Artificial Intelligence Based Technique to Create Natural Features for OpenStreetMap",1,arXiv
-14,https://doi.org/10.1080/13658816.2019.1584803,"Automatic analysis of positional plausibility for points of interest in OpenStreetMap using coexistence patterns",0,IJGIS
-15,https://doi.org/10.1109/ACCESS.2019.2957825,"OpenStreetMap Data Quality Assessment via Deep Learning and Remote Sensing Imagery",1,ACM,
-16,https://doi.org/10.1145/3397536.3422342,"staty: Quality Assurance for Public Transit Stations in OpenStreetMap",1,ACM,
-17,https://doi.org/10.3390/rs10040624,"Optimization of OpenStreetMap Building Footprints Based on Semantic Information of Oblique UAV Images",1,MDPI
-18,https://doi.org/10.1016/j.atmosenv.2020.117535,"OpenLUR: Off-the-shelf air pollution modeling with open features and machine learning",1,ScienceDirect
-19,https://doi.org/10.3390/ijgi5060087,"Guided Classification System for Conceptual Overlapping Classes in OpenStreetMap",1,MDPI
-20,https://doi.org/10.1080/13658816.2014.909045,"Fine-resolution population mapping using OpenStreetMap points-of-interest",0
-21,https://www.geog.uni-heidelberg.de/md/chemgeo/geog/gis/agile_final_version.pdf," Estimating OpenStreetMap Missing Built-up Areas using Pre-trained Deep Neural Networks",1,Uni-Heidelberg.de
-22,https://doi.org/10.3390/ijgi9070427,"Change Detection from Remote Sensing to Guide OpenStreetMap Labeling",1
-23,https://re.public.polimi.it/handle/11311/1154792,"A MACHINE LEARNING PIPELINE ARTICULATING SATELLITE IMAGERY and OPENSTREETMAP for ROAD DETECTION",1,re.public.polimi.it
-24,https://doi.org/10.1080/10095020.2017.1371385,"Open land-use map: a regional land-use mapping strategy for incorporating OpenStreetMap with earth observations",1
-25,https://doi.org/10.3390/rs10071145,"Supervised Classification of Built-Up Areas in Sub-Saharan African Cities Using Landsat Imagery and OpenStreetMap",1
-26,https://doi.org/10.1016/j.isprsjprs.2020.05.007,"Exploration of OpenStreetMap missing built-up areas using twitter hierarchical clustering and deep learning in Mozambique",1
-27,https://doi.org/10.1016/j.isprsjprs.2018.11.010,"Correcting rural building annotations in OpenStreetMap using convolutional neural networks",0
-28,https://doi.org/10.3390/ijgi8110478,"Road Extraction from Very High Resolution Images Using Weakly labeled OpenStreetMap Centerline",1
-29,https://hal.archives-ouvertes.fr/hal-01856185/,"Towards Vandalism Detection in OpenStreetMap Through a Data Driven Approach",1,archives-ouvertes.fr
-30,https://doi.org/10.1016/j.future.2020.11.003,"Linking OpenStreetMap with knowledge graphs — Link discovery for schema-agnostic volunteered geographic information",1,ScienceDirect
-31,https://doi.org/10.1111/tgis.12674,"Machine-learning prediction models for pedestrian traffic flow levels: Towards optimizing walking routes for blind pedestrians",1
-32,https://doi.org/10.1371/journal.pone.0204399,"Predicting residential structures from open source remotely enumerated data using machine learning",1
-33,https://link.springer.com/chapter/10.1007/978-3-319-14280-7_14,"Investigating the Potential of OpenStreetMap for Land Use/Land Cover Production: A Case Study for Continental Portugal",1,ResearchGate
-34,https://doi.org/10.1109/IGARSS39084.2020.9323999,"Automated Openstreetmap Data Alignment for Road Network Mapping",0,ACM
-35,https://www.researchgate.net/profile/Richard-Wen-2/publication/317099024_Outlier_Detection_in_OpenStreetMap_Data_using_the_Random_Forest_Algorithm_and_Variable_Contributions/links/5925f035a6fdcc4443420317/Outlier-Detection-in-OpenStreetMap-Data-using-the-Random-Forest-Algorithm-and-Variable-Contributions.pdf,"Outlier Detection in OpenStreetMap Data using the Random Forest Algorithm and Variable Contributions",1,ResearchGate
-36,https://doi.org/10.1016/j.envint.2019.105022,"Mapping urban air quality using mobile sampling with low-cost sensors and machine learning in Seoul, South Korea",1
-37,https://doi.org/10.1145/3297280.3297342,"A transfer learning paradigm for spatial networks",0,ACM
-38,https://doi.org/10.7275/R5D21VS0,"Automatic Improvement of Point-of-Interest Tags For OpenStreetMap Data",1,scholarworks.umass.edu
-39,https://doi.org/10.1109/ACCESS.2020.2973885,"Exploring Budgeted Learning for Data-Driven Semantic Inference via Urban Functions",0,IEEE
-40,https://doi.org/10.1080/15230406.2019.1618201,"Neighborhood features in geospatial machine learning: the case of population disaggregation",0
-41,https://doi.org/10.3390/ijgi7070246,"Mapping Urban Land Use at Street Block Level Using OpenStreetMap, Remote Sensing Data, and Spatial Metrics",1
-42,https://escholarship.org/uc/item/4hp830d6,"Outlier Detection in OpenStreetMap Data using the Random Forest Algorithm",1,escholarship
-43,https://doi.org/10.1109/Indo-TaiwanICAN48429.2020.9181313,Intrinsic Parameters based Quality Assessment of Indian OpenStreetMap Dataset using Supervised Learning Technique,0
-44,https://doi.org/10.1109/ITSC.2019.8917182,"Evaluating the Capability of OpenStreetMap for Estimating Vehicle Localization Error",0
-45,https://doi.org/10.1109/BigData.2018.8622416,"On Network Embedding for Machine Learning on Road Networks: A Case Study on the Danish Road Network",0
-46,https://doi.org/10.3390/cli9040058,"Monitoring Urban Deprived Areas with Remote Sensing and Machine Learning in Case of Disaster Recovery",1
-47,https://doi.org/10.1080/15230406.2017.1356242,"Combining machine-learning topic models and spatiotemporal analysis of social media data for disaster footprint and damage assessment",1
-48,https://doi.org/10.1080/13658816.2011.619501,"Mining urban land-use patterns from volunteered geographic information by means of genetic algorithms and artificial neural networks",0
-49,https://hal.archives-ouvertes.fr/hal-02289169/,"Map Change Prediction for Quality Assurance Map Change Prediction for Quality Assurance",1,hal.archives-ouvertes.fr
-50,https://openaccess.thecvf.com/content_CVPRW_2019/html/cv4gc/Yi_Towards_equitable_access_to_information_and_opportunity_for_all_mapping_CVPRW_2019_paper.html,"Towards equitable access to information and opportunity for all: mapping schools with high-resolution Satellite Imagery and Machine Learning",1
+1,https://doi.org/10.3390/ijgi9090498,Using OpenStreetMap Data and Machine Learning to Generate Socio-Economic Indicators,1,
+2,https://doi.org/10.1111/tgis.12680,OpenStreetMap quality assessment using unsupervised machine learning methods,1,
+3,https://doi.org/10.3390/ijgi9110638,Machine Learning Framework for the Estimation of Average Speed in Rural Road Networks with OpenStreetMap Data,1,
+4,https://doi.org/10.1080/13658816.2020.1814303,Deploying machine learning to assist digital humanitarians: making image annotation in OpenStreetMap more efficient,0,arxiv
+5,https://dl.acm.org/doi/abs/10.5555/3045776.3045780,Automatic extrapolation of missing road network data in openstreetmap,0,http://ceur-ws.org/
+6,https://arxiv.org/abs/1705.06057,Joint Learning From Earth Observation and OpenStreetMap Data to Get Faster Better Semantic Maps,1,arxiv
+7,https://dl.acm.org/doi/pdf/10.1145/2666310.2666476,Automated highway tag assessment of OpenStreetMap road networks,1,
+8,https://doi.org/10.3390/ijgi10030156,A Contributor-Focused Intrinsic Quality Assessment of OpenStreetMap in Mozambique Using Unsupervised Machine Learning,1,
+9,https://doi.org/10.1145/3041021.3054250,DeepVGI: Deep Learning with Volunteered Geographic Information,1,ACM
+10,https://doi.org/10.1016/j.jag.2017.07.014,Open land cover from OpenStreetMap and remote sensing,1,ScienceDirect
+11,https://doi.org/10.1111/tgis.12514,Multilane roads extracted from the OpenStreetMap urban road network using random forests,1,TGIS
+12,https://doi.org/10.1109/GUCON.2018.8674899,An Automated Approach for Quality Assessment of OpenStreetMap Data,0,
+13,https://arxiv.org/abs/2007.02149,Human Assisted Artificial Intelligence Based Technique to Create Natural Features for OpenStreetMap,1,arXiv
+14,https://doi.org/10.1080/13658816.2019.1584803,Automatic analysis of positional plausibility for points of interest in OpenStreetMap using coexistence patterns,0,IJGIS
+15,https://doi.org/10.1109/ACCESS.2019.2957825,OpenStreetMap Data Quality Assessment via Deep Learning and Remote Sensing Imagery,1,ACM
+16,https://doi.org/10.1145/3397536.3422342,staty: Quality Assurance for Public Transit Stations in OpenStreetMap,1,ACM
+17,https://doi.org/10.3390/rs10040624,Optimization of OpenStreetMap Building Footprints Based on Semantic Information of Oblique UAV Images,1,MDPI
+18,https://doi.org/10.1016/j.atmosenv.2020.117535,OpenLUR: Off-the-shelf air pollution modeling with open features and machine learning,1,ScienceDirect
+19,https://doi.org/10.3390/ijgi5060087,Guided Classification System for Conceptual Overlapping Classes in OpenStreetMap,1,MDPI
+20,https://doi.org/10.1080/13658816.2014.909045,Fine-resolution population mapping using OpenStreetMap points-of-interest,0,
+21,https://www.geog.uni-heidelberg.de/md/chemgeo/geog/gis/agile_final_version.pdf, Estimating OpenStreetMap Missing Built-up Areas using Pre-trained Deep Neural Networks,1,Uni-Heidelberg.de
+22,https://doi.org/10.3390/ijgi9070427,Change Detection from Remote Sensing to Guide OpenStreetMap Labeling,1,
+23,https://re.public.polimi.it/handle/11311/1154792,A MACHINE LEARNING PIPELINE ARTICULATING SATELLITE IMAGERY and OPENSTREETMAP for ROAD DETECTION,1,re.public.polimi.it
+24,https://doi.org/10.1080/10095020.2017.1371385,Open land-use map: a regional land-use mapping strategy for incorporating OpenStreetMap with earth observations,1,
+25,https://doi.org/10.3390/rs10071145,Supervised Classification of Built-Up Areas in Sub-Saharan African Cities Using Landsat Imagery and OpenStreetMap,1,
+26,https://doi.org/10.1016/j.isprsjprs.2020.05.007,Exploration of OpenStreetMap missing built-up areas using twitter hierarchical clustering and deep learning in Mozambique,1,
+27,https://doi.org/10.1016/j.isprsjprs.2018.11.010,Correcting rural building annotations in OpenStreetMap using convolutional neural networks,0,
+28,https://doi.org/10.3390/ijgi8110478,Road Extraction from Very High Resolution Images Using Weakly labeled OpenStreetMap Centerline,1,
+29,https://hal.archives-ouvertes.fr/hal-01856185/,Towards Vandalism Detection in OpenStreetMap Through a Data Driven Approach,1,archives-ouvertes.fr
+30,https://doi.org/10.1016/j.future.2020.11.003,Linking OpenStreetMap with knowledge graphs — Link discovery for schema-agnostic volunteered geographic information,1,ScienceDirect
+31,https://doi.org/10.1111/tgis.12674,Machine-learning prediction models for pedestrian traffic flow levels: Towards optimizing walking routes for blind pedestrians,1,
+32,https://doi.org/10.1371/journal.pone.0204399,Predicting residential structures from open source remotely enumerated data using machine learning,1,
+33,https://link.springer.com/chapter/10.1007/978-3-319-14280-7_14,Investigating the Potential of OpenStreetMap for Land Use/Land Cover Production: A Case Study for Continental Portugal,1,ResearchGate
+34,https://doi.org/10.1109/IGARSS39084.2020.9323999,Automated Openstreetmap Data Alignment for Road Network Mapping,0,ACM
+35,https://www.researchgate.net/profile/Richard-Wen-2/publication/317099024_Outlier_Detection_in_OpenStreetMap_Data_using_the_Random_Forest_Algorithm_and_Variable_Contributions/links/5925f035a6fdcc4443420317/Outlier-Detection-in-OpenStreetMap-Data-using-the-Random-Forest-Algorithm-and-Variable-Contributions.pdf,Outlier Detection in OpenStreetMap Data using the Random Forest Algorithm and Variable Contributions,1,ResearchGate
+36,https://doi.org/10.1016/j.envint.2019.105022,"Mapping urban air quality using mobile sampling with low-cost sensors and machine learning in Seoul, South Korea",1,
+37,https://doi.org/10.1145/3297280.3297342,A transfer learning paradigm for spatial networks,0,ACM
+38,https://doi.org/10.7275/R5D21VS0,Automatic Improvement of Point-of-Interest Tags For OpenStreetMap Data,1,scholarworks.umass.edu
+39,https://doi.org/10.1109/ACCESS.2020.2973885,Exploring Budgeted Learning for Data-Driven Semantic Inference via Urban Functions,0,IEEE
+40,https://doi.org/10.1080/15230406.2019.1618201,Neighborhood features in geospatial machine learning: the case of population disaggregation,0,
+41,https://doi.org/10.3390/ijgi7070246,"Mapping Urban Land Use at Street Block Level Using OpenStreetMap, Remote Sensing Data, and Spatial Metrics",1,
+42,https://escholarship.org/uc/item/4hp830d6,Outlier Detection in OpenStreetMap Data using the Random Forest Algorithm,1,escholarship
+43,https://doi.org/10.1109/Indo-TaiwanICAN48429.2020.9181313,Intrinsic Parameters based Quality Assessment of Indian OpenStreetMap Dataset using Supervised Learning Technique,0,
+44,https://doi.org/10.1109/ITSC.2019.8917182,Evaluating the Capability of OpenStreetMap for Estimating Vehicle Localization Error,0,
+45,https://doi.org/10.1109/BigData.2018.8622416,On Network Embedding for Machine Learning on Road Networks: A Case Study on the Danish Road Network,0,
+46,https://doi.org/10.3390/cli9040058,Monitoring Urban Deprived Areas with Remote Sensing and Machine Learning in Case of Disaster Recovery,1,
+47,https://doi.org/10.1080/15230406.2017.1356242,Combining machine-learning topic models and spatiotemporal analysis of social media data for disaster footprint and damage assessment,1,
+48,https://doi.org/10.1080/13658816.2011.619501,Mining urban land-use patterns from volunteered geographic information by means of genetic algorithms and artificial neural networks,0,
+49,https://hal.archives-ouvertes.fr/hal-02289169/,Map Change Prediction for Quality Assurance Map Change Prediction for Quality Assurance,1,hal.archives-ouvertes.fr
+50,https://openaccess.thecvf.com/content_CVPRW_2019/html/cv4gc/Yi_Towards_equitable_access_to_information_and_opportunity_for_all_mapping_CVPRW_2019_paper.html,Towards equitable access to information and opportunity for all: mapping schools with high-resolution Satellite Imagery and Machine Learning,1,
